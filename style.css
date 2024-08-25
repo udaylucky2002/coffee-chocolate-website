@@ -1,0 +1,147 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main1{
+position: sticky;
+background-color: #1a2f33;
+
+}
+#main1{
+
+    font-family:Italiana; 
+}
+.row img {
+    
+    justify-items: center;
+    width: 80px;
+}
+.main{
+    background-image: url(img/20.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 750px;
+    background-repeat: no-repeat;
+    margin: 0;
+    background-color: #1a2f33;
+    animation-name: mynew;
+    color:white;
+
+    
+}
+.main button{
+    color: white;
+}
+@keyframes mynew{
+    from{background-image: url(img/3.jpg);}
+    to{background-image: url(img/4.webp);}
+}
+
+.name h1{
+    color: #e5ebef;
+    text-align: center;
+    font-size: 112px;
+    font-family:Italiana;
+    font-weight: 400;
+    
+
+   
+}
+.main h5{
+    color: aliceblue;
+}
+.row1{
+    background-color: darkblue;
+}
+.working{
+        background-image: url(img/10.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 700px;
+        width: 100%;
+        
+}
+.dui{
+    padding-top:40px ;
+    padding-bottom: 40px;
+}
+.pid{
+    padding-bottom: 50px;
+}
+.hr{
+    background-color: orangered;
+}
+.work{
+    padding-top: 40px;
+}
+.working{
+    color: white;
+    padding-top:250px ;
+}
+.about1{
+position: static;
+width: 100%;
+}
+.about{
+    background-image: url(img/11.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    background-attachment: fixed;
+}
+.about button{
+    color: white;
+}
+.bgcolor{
+   background-color:#1a2f33; 
+   color: white;
+}
+.ove img{
+    margin: 40px; 
+    background-color:  #2d4252;
+    border-radius: 50px;
+}
+.ove img:hover{
+    background-color:white;
+    color: white;
+}
+.team img{
+    padding: 20px;
+height: 400px;
+width: 100%;
+ 
+
+}
+.team{
+    padding-bottom: 80px;
+}
+.hh{
+ padding-top:50px ;
+}
+
+.ico img{
+    margin-left: 60px;
+    height: 50px;
+    width: 110px;
+}
+.read{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.sub{
+    padding-top: 60px;
+    background-image: url(img/20.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 500px;
+}
+
+.sub h1{
+    font-size: 80px;
+}
+
